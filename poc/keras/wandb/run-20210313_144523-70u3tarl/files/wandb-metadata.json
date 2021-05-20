@@ -1,0 +1,19 @@
+{
+    "os": "macOS-10.15.6-x86_64-i386-64bit",
+    "python": "3.8.2",
+    "heartbeatAt": "2021-03-13T13:45:30.129262",
+    "startedAt": "2021-03-13T13:45:23.680160",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "-f",
+        "/Users/amalota/Library/Jupyter/runtime/kernel-3912f278-2a3c-46b2-9490-5dcbe62614dc.json"
+    ],
+    "state": "running",
+    "program": "Documents/mgr/DRL-XAI-POC/train_dqn.ipynb",
+    "root": "/Users/amalota",
+    "host": "VL-D-0832",
+    "username": "amalota",
+    "executable": "/Users/amalota/anaconda3/envs/py38/bin/python"
+}
